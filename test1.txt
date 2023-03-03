@@ -1,6 +1,9 @@
 Test 1
 
 Test3
+<<<<<<< HEAD
 Tets mssh
 lfgdfkj
 dskfasf
+=======
+>>>>>>> parent of f4a046f... third commit
